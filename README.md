@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Cloud Computing**
 
-- 👨‍💻 My Resume [https://drive.google.com/file/d/1AZJWmliat4cFpi2oOBhPcl_LAUslQ_zm/view?usp=sharing](https://drive.google.com/file/d/1AZJWmliat4cFpi2oOBhPcl_LAUslQ_zm/view?usp=sharing)
+- 👨‍💻 My Resume **[https://drive.google.com/drive/u/0/home](Resume)**
 
 - 📫 Reach out to me at **le224l@mtholyoke.edu**
 
