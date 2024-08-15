@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Cloud Computing**
 
-- 👨‍💻 My Resume **[Resume](https://drive.google.com/drive/u/0/home)**
+- 👨‍💻 My Website **[Linh's Cozy Corner](https://ngoclinhlewebsite.vercel.app/)**
 
 - 📫 Reach out to me at **le224l@mtholyoke.edu**
 
