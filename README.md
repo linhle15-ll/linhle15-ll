@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
-<h3 align="center">I am a passionate CS and Stat student! Love exploring and trying with new tech stacks and learn what we can do with tech ^^</h3>
+<h3 align="center">I am a passionate CS and Stat student! I love trying with new tech stacks and learn what we can do with tech ^^</h3>
 
 - 🌱 I’m currently learning **MERN stack and Cloud Computing**
 
