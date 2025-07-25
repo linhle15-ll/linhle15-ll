@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">I am a passionate CS and Stat student! I love trying with new tech stacks and learn what we can do with tech ^^</h3>
 
-- 🌱 I’m currently learning **MERN stack and Cloud Computing**
-
-- 👨‍💻 My Website **[Linh's Cozy Corner](https://ngoclinhlewebsite.vercel.app/)**
+- 🌱 I’m currently learning **Full-stack development, bit of AI**
 
 - 📫 Reach out to me at **le224l@mtholyoke.edu**
 
